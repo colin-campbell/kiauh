@@ -2,7 +2,7 @@
 SYSTEMDDIR="/etc/systemd/system"
 MOONRAKER_ENV="${HOME}/moonraker-env"
 MOONRAKER_DIR="${HOME}/moonraker"
-MOONRAKER_REPO="https://github.com/Arksine/moonraker.git"
+MOONRAKER_REPO="https://github.com/colin-campbell/moonraker.git"
 
 system_check_moonraker(){
   ### python 3 check
